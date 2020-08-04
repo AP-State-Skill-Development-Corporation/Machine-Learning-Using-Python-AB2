@@ -11,3 +11,17 @@ This repository consists of all the files discussed during Machine Learning usin
 #### Few resources avaliable @ [[resources.md]](resources.md) file don't forget to use them
 
 ******************************
+
+
+## Day1 Introduction to Machine Learning (03-Aug-2020)
+
+### Discussed Concepts:
+
+1. Introduction to Machine Learning
+1. Machine Learning Classification
+1. Types of Algorithms
+1. Applications of machine learning
+
+### [[Day_01_Slides]](Day01_03Aug2020/Day01_Slides.pdf)
+
+### [[Day_01_Recorded_Videos]](https://transcripts.gotomeeting.com/#/s/752764dd08b362484f35ed2c638f1057983093025d18ff2b7df4287a7f9dd7b5)
