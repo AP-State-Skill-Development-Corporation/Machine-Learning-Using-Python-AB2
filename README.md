@@ -69,3 +69,14 @@ This repository consists of all the files discussed during Machine Learning usin
 ### [[Day_03_Recorded_Video_Part-2]](https://transcripts.gotomeeting.com/#/s/978e2da57ee835978a260e7f6b729bb4c3cbdaadf77c504f47f0d40869649562)
 
 *****************
+## Day-4 (06-Aug-2020)
+
+### Discussed Topics
+1. Introduction to categorical types of data
+2. Types of classification
+3. K-Nearest Neighbors Classifier
+4. Evaluation Metrics for Classification Models
+
+Recorded Video[Click Here 06-Aug Video](https://transcripts.gotomeeting.com/#/s/40851d6b8e3180cbc770f86b76c0315496aa2df6fd50fd4d4658575fc797c05e)
+NoteBook [Click Here For Jupyter Notes]()
+***************
