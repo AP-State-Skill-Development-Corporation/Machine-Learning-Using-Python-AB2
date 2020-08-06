@@ -52,3 +52,20 @@ This repository consists of all the files discussed during Machine Learning usin
 ### Day02_Jupyter Notebook [[.ipynb format]](Day02_04Aug2020/Day02_JupyterNotebook.ipynb), [[.pdf format]](Day02_04Aug2020/Day02_JupyterNotebook.pdf)
 
 ### [[Day_02_Recorded_Video]](https://transcripts.gotomeeting.com/#/s/255e686fafd70c28097d249df2b19f3f43b88d2aedd14d83f872f57d0724e6af)
+************************
+
+## Day03 Multi Linear Regression & Polynomial Regression (05-Aug-2020)
+
+### Discussed Concepts:
+
+1. Multi Linear Regression on CO2 Emissions Dataset
+2. Polynomial Regressoin on Boston Housing Dataset
+
+### 1. Day03_Multi_Linear_Regression_Jupyter_Notebook [[.ipynb format]](Day03_05Aug2020/Day03_Multiple_Linear_Regression_CO2Emissions_Dataset_Jupyter_Notebook.ipynb), [[.pdf format]](Day03_05Aug2020/Day03_Multiple_Linear_Regression_CO2Emissions_Dataset_Jupyter_Notebook.pdf)
+
+### 2. Day03_PolyNomial_Regression_Jupyter_Notebook [[.ipynb format]](Day03_05Aug2020/Day03_Polynomial_Regression_Jupyter_Notebook.ipynb), [[.pdf format]](Day03_05Aug2020/Day03_Polynomial_Regression_Jupyter_Notebook.pdf)
+
+### [[Day_03_Recorded_Video_Part-1]](https://transcripts.gotomeeting.com/#/s/7ad144daf2d31db4da985905280a9ec02069df1227a5b96bf6a173d98e6ce457)
+### [[Day_03_Recorded_Video_Part-2]](https://transcripts.gotomeeting.com/#/s/978e2da57ee835978a260e7f6b729bb4c3cbdaadf77c504f47f0d40869649562)
+
+*****************
