@@ -77,6 +77,6 @@ This repository consists of all the files discussed during Machine Learning usin
 3. K-Nearest Neighbors Classifier
 4. Evaluation Metrics for Classification Models
 
-Recorded Video[Click Here 06-Aug Video](https://transcripts.gotomeeting.com/#/s/40851d6b8e3180cbc770f86b76c0315496aa2df6fd50fd4d4658575fc797c05e)
-NoteBook [Click Here For Jupyter Notes]()
+Recorded Video[Click Here 06-Aug Video](https://transcripts.gotomeeting.com/#/s/40851d6b8e3180cbc770f86b76c0315496aa2df6fd50fd4d4658575fc797c05e)<br>
+NoteBook [Click Here For Jupyter Notes](https://github.com/AP-State-Skill-Development-Corporation/Machine-Learning-Using-Python-AB2/blob/master/Day04_06_08_2020/Classification_class_06_08_2020.ipynb)<br>
 ***************
