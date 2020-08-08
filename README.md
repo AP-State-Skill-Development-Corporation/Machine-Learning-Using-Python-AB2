@@ -84,10 +84,10 @@ NoteBook [Click Here For Jupyter Notes](https://github.com/AP-State-Skill-Develo
 ## Day-5(07-08-2020)
 -----
 ### Discussed Topics
-- 1.Explanation on Logistic regression
-- 2.Logistic Algorithm With dataset
-- 3.Support Vector Machine Explanation
-- 4.SVM With dataset
+- Explanation on Logistic regression
+- Logistic Algorithm With dataset
+- Support Vector Machine Explanation
+- SVM With dataset
 
 Recorded Video [-->Click Here]()<br>
 Jupyter Notebook [-->Click Here](https://github.com/AP-State-Skill-Development-Corporation/Machine-Learning-Using-Python-AB2/blob/master/Day05_07_08_2020/07-08-2020%20ML%20Logistic%20%26%20SVM.ipynb)<br>
