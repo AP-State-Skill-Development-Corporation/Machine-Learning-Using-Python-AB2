@@ -102,4 +102,4 @@ Jupyter Notebook [-->Click Here](https://github.com/AP-State-Skill-Development-C
 - Decision Trees Classifier
 
 Recorded Video [-->Click Here](https://transcripts.gotomeeting.com/#/s/3a562a7905a85e55823b92dcf0bf69d444a32f263ac423ddd99aef71c39e3578)
-Jupyter Notebook [-->Click Here]()
+Jupyter Notebook [-->Click Here](https://github.com/AP-State-Skill-Development-Corporation/Machine-Learning-Using-Python-AB2/blob/master/Day06_08_08_2020/08-08-2020%20Decision%20Tree.ipynb)
