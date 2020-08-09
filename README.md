@@ -89,7 +89,17 @@ NoteBook [Click Here For Jupyter Notes](https://github.com/AP-State-Skill-Develo
 - Support Vector Machine Explanation
 - SVM With dataset
 
-Recorded Video [-->Click Here]()<br>
+Recorded Video [-->Click Here](https://transcripts.gotomeeting.com/#/s/82e375494db07e45d0665d2fcff80794a7447c8b14c50f03130e26b970114396)<br>
 Jupyter Notebook [-->Click Here](https://github.com/AP-State-Skill-Development-Corporation/Machine-Learning-Using-Python-AB2/blob/master/Day05_07_08_2020/07-08-2020%20ML%20Logistic%20%26%20SVM.ipynb)<br>
 
 *****************
+## Day-6 (08-08-2020)
+----
+### Convered Syllabus
+- Introduction to Decision Tree
+- Terminology related to Decision Trees
+- Types of Decision Trees
+- Decision Trees Classifier
+
+Recorded Video [-->Click Here](https://transcripts.gotomeeting.com/#/s/3a562a7905a85e55823b92dcf0bf69d444a32f263ac423ddd99aef71c39e3578)
+Jupyter Notebook [-->Click Here]()
