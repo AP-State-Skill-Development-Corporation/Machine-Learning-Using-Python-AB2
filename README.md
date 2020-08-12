@@ -102,3 +102,30 @@ Jupyter Notebook [-->Click Here](https://github.com/AP-State-Skill-Development-C
 
 Recorded Video [-->Click Here](https://transcripts.gotomeeting.com/#/s/3a562a7905a85e55823b92dcf0bf69d444a32f263ac423ddd99aef71c39e3578)
 Jupyter Notebook [-->Click Here](https://github.com/AP-State-Skill-Development-Corporation/Machine-Learning-Using-Python-AB2/blob/master/Day06_08_08_2020/08-08-2020%20Decision%20Tree.ipynb)
+*********************************
+## Day08 Unsupervised Learning and Clustering	 (11-Aug-2020)
+
+### Discussed Concepts:
+1. Random Forest Classification on Drug Dataset
+2. Unsupervised Learning
+3. KMeans Clustering
+
+### Day08_Jupyter Notebook [[.ipynb format]](Day08_11Aug2020/Day08_KMeans_Clustering_on_iris_Dataset.ipynb), [[.pdf format]](Day08_11Aug2020/Day08_KMeans_Clustering_on_iris_Dataset.pdf)
+
+### [[Day_08_Recorded_Video]](https://transcripts.gotomeeting.com/#/s/2aec68484c78d5c8174fd79f05ff3cf31b1c8f661abb16069dffeae3935aa984)
+
+***************************
+## Day09 Dimensionality Reduction	 (12-Aug-2020)
+
+### Discussed Concepts:
+
+1. Dimensionality Reduction
+2. Principle Component Analysis
+
+### Day09_Jupyter Notebook [[.ipynb format]](Day09_12Aug2020/Day09_12Aug2020_Dimensionality_Reduction(PCA)_on_Diabetes_Dataset.ipynb), [[.pdf format]](Day09_12Aug2020/Day09_12Aug2020_Dimensionality_Reduction(PCA)_on_Diabetes_Dataset.pdf)
+
+### [[Day_09_Recorded_Video]](https://transcripts.gotomeeting.com/#/s/3362666153183e55bf1fd22e722f49056bab499f5bc6fecb136fa68084f8fe2d)
+
+*****************
+
+<img src="https://media1.tenor.com/images/98c6d5e76d6069f4f7d42ee937f4dc98/tenor.gif?itemid=15177778" alt="centered image" height = 249 width = 249/>
