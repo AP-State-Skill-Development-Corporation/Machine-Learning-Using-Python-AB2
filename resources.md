@@ -22,3 +22,9 @@
 4. **[UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php)**
 
 ***********************************
+## ML Resources
+1. Cousera [IBM Coursera](https://www.coursera.org/specializations/ibm-intro-machine-learning/), [Stanford](https://www.coursera.org/learn/machine-learning)
+2. [Datacamp](https://www.datacamp.com/) & [Pluralsight](https://www.pluralsight.com/) free [subscription from Microsoft](http://my.visualstudio.com/)
+3. [Top-down learning path: Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
+4. [Machine Learning Projects](https://github.com/Microsoft-Club-SIST/machine-learning-projects)
+5. [Free Courses](https://medium.com/@anilkumarteegala/free-online-certificate-courses-you-can-start-during-covid-19-epidemic-8cbfdce1a49e)
