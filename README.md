@@ -124,7 +124,7 @@ Jupyter Notebook [-->Click Here](https://github.com/AP-State-Skill-Development-C
 
 ### Day09_Jupyter Notebook [[.ipynb format]](Day09_12Aug2020/Day09_12Aug2020_Dimensionality_Reduction(PCA)_on_Diabetes_Dataset.ipynb), [[.pdf format]](Day09_12Aug2020/Day09_12Aug2020_Dimensionality_Reduction(PCA)_on_Diabetes_Dataset.pdf)
 
-### [[Day_09_Recorded_Video]](https://transcripts.gotomeeting.com/#/s/3362666153183e55bf1fd22e722f49056bab499f5bc6fecb136fa68084f8fe2d)
+### [[Day_09_Recorded_Video]](https://transcripts.gotomeeting.com/#/s/4c980aa993aef09eba10e6a1a7d2f47914efa67faf9724e5f44ee09044ca538f)
 
 *****************
 
